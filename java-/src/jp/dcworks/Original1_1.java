@@ -9,7 +9,7 @@ public class Original1_1 {
 		System.out.println(str1);
 		System.out.println(str2);
 
-		//変数の入れ替え
+		// 変数の入れ替え
 		String change = str1;
 		str1 = str2;
 		str2 = change;

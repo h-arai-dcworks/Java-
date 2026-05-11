@@ -1,9 +1,9 @@
 package jp.dcworks.original4_1;
-//Catクラス（Animalを継承）
+// Catクラス（Animalを継承）
 
 class Cat extends Animal {
 
-	//コンストラクタ
+	// コンストラクタ
 	Cat(String name) {
 		super(name);
 	}

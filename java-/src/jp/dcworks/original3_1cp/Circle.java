@@ -1,8 +1,8 @@
 package jp.dcworks.original3_1cp;
 
-//円のクラス
+// 円のクラス
 class Circle implements Shape {
-	double r;
+	private double r;
 
 	Circle(double r) {
 		this.r = r;

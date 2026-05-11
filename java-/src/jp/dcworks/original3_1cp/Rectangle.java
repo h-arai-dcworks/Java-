@@ -1,9 +1,9 @@
 package jp.dcworks.original3_1cp;
 
-//長方形クラス
+// 長方形クラス
 class Rectangle implements Shape {
-	double w;
-	double h;
+	private double w;
+	private double h;
 
 	Rectangle(double w, double h) {
 		this.w = w;

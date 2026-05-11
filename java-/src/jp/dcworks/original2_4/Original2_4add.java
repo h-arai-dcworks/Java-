@@ -2,8 +2,8 @@ package jp.dcworks.original2_4;
 
 class Original2_4add {
 	// インスタンス変数
-	int num1;
-	int num2;
+	private int num1;
+	private int num2;
 
 	// コンストラクタ
 	Original2_4add(int num1, int num2) {

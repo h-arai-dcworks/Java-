@@ -1,8 +1,8 @@
 package jp.dcworks.original3_1cp;
 
-//三角形のクラス
+// 三角形のクラス
 class Triangle implements Shape {
-	double w;
+	private double w;
 
 	Triangle(double w) {
 		this.w = w;
