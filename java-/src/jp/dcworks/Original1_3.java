@@ -1,6 +1,6 @@
 package jp.dcworks;
 
-public class original1_3 {
+public class Original1_3 {
 	public static void main (String[] args) {
 	
 	//九九の表作成

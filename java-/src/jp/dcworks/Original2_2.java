@@ -1,6 +1,6 @@
 package jp.dcworks;
 
-public class original2_2{
+public class Original2_2{
 
     public static void main(String[] args) {
         int a = 6;
@@ -28,10 +28,10 @@ public class original2_2{
     }
 
     // 割り算（0対策あり）
-    public static int div(int a, int b) {
+    public static Integer div(Integer a, Integer b) {
         if (b == 0) {
             System.out.println("エラー：0では割れません");
-            return 0;
+            return  null;
         }
         return a / b;
     }
