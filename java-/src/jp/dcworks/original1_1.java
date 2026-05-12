@@ -11,7 +11,7 @@ public class original1_1 {
 	        
 	        //変数の入れ替え
 	        String change = str1;
-	        str1 = str2;
+	        // str1 = str2;
 	        str2 = change;
 	        		
 	        System.out.println(str1);
